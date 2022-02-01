@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zorrokid
 - 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
-- 🌱 I’m currently learning Go, Kotlin / Android
+- 🌱 I’m currently learning Go, Kotlin / Android and hopefully I'll have some time for Rust as well
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
