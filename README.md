@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @zorrokid aka Mikko Keinänen
+- 👋 Hi, I’m @zorrokid aka Mikko Keinänen (https://www.linkedin.com/in/mikkokeinanen)
 - 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
 - My hobby project focus is currently in my Flutter mobile app project: https://github.com/zorrokid/film-freak
 - 🌱 I’m currently learning Flutter / Dart, Rust, Go, Kotlin / Android
