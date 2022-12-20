@@ -3,7 +3,7 @@
 - My hobby project focus is currently in my Flutter mobile app project: https://github.com/zorrokid/film-freak
 - 🌱 I’m currently learning Flutter / Dart, Rust, Go, Kotlin / Android
 - you can find my previous account here: https://github.com/sabreman with C64 assembly game Trolly Valley
-- also one of my old projects from SourceForge here: 
+- also one of my reaaally old projects from SourceForge here: 
     - https://sourceforge.net/projects/retromenu/ 
     - https://retromenu.sourceforge.net
 
