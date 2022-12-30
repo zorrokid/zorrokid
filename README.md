@@ -11,7 +11,7 @@ Mobile app for movie collection management implemented with Flutter and Dart
 
 ## Emufront
 
-An emulator front end for Nokia Maemo N900 mobile device implemented with Qt and C++. This was originally hosted in Gitorious (https://gitorious.org/emufront/emufront.git/?p=emufront:emufront.git;a=summary) but decided to upload here for better home since gitorious is not active any more.
+An emulator front end for Nokia Maemo N900 mobile device implemented with Qt and C++ and therefore should be usable on other platforms as well. This was originally hosted in Gitorious (https://gitorious.org/emufront/emufront.git/?p=emufront:emufront.git;a=summary) but decided to upload here for better home since gitorious is not active any more.
 
 - https://github.com/zorrokid/emufront
 
