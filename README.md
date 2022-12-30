@@ -2,7 +2,7 @@
 - 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
 - 🌱 I’m currently learning Flutter / Dart, Kotlin / Jetpack Compose for Android, Go, Node.js and refreshing my memory and skills with C++
 
-# My current hobby projects
+# Some of my hobby projects
 
 ## film_freak
 
