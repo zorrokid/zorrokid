@@ -9,6 +9,12 @@
 Mobile app for movie collection management implemented with Flutter and Dart
 - https://github.com/zorrokid/film-freak
 
+## Emufront
+
+An emulator front end for Nokia Maemo N900 mobile device implemented with Qt and C++. This was originally hosted in Gitorious (https://gitorious.org/emufront/emufront.git/?p=emufront:emufront.git;a=summary) but decided to upload here for better home since gitorious is not active any more.
+
+- https://github.com/zorrokid/emufront
+
 # Some of my old hobby projects outside of this git account
 
 ## Trolly Valley 
@@ -21,10 +27,6 @@ A platformer game implemented in 6510 assembly for Commodore 64 in my old sabrem
 An video game emulator front end and database system implemented with Java:
 - https://sourceforge.net/projects/retromenu/ 
 - https://retromenu.sourceforge.net
-    
-## Emufront
-One of my old projects from Gitorious, an emulator front end for Nokia Maemo N900 device implemented with Qt and C++
-- https://gitorious.org/emufront/emufront.git/?p=emufront:emufront.git;a=summary
 
 <!---
 zorrokid/zorrokid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
