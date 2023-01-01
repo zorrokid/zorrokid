@@ -24,6 +24,13 @@ To my surprise the original site for app is still up: http://emufront.garage.mae
 A platformer game implemented in 6510 assembly for Commodore 64 in my old sabreman github account:
 - https://github.com/sabreman
 
+Released at CSDb:
+- https://csdb.dk/release/?id=53151
+- https://csdb.dk/release/?id=78852
+
+Gamebase 64:
+- http://www.gb64.com/game.php?id=20687
+
 ## Retromenu
 
 An video game emulator front end and database system implemented with Java:
