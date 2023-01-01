@@ -22,7 +22,7 @@ To my surprise the original site for app is still up: http://emufront.garage.mae
 ## Trolly Valley 
 
 A platformer game implemented in 6510 assembly for Commodore 64 in my old sabreman github account:
-- https://github.com/sabreman
+- [https://github.com/sabreman](https://github.com/sabreman/trollyvalley)
 
 Released at CSDb:
 - https://csdb.dk/release/?id=53151
