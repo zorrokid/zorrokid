@@ -15,6 +15,8 @@ An emulator front end for Nokia Maemo N900 mobile device implemented with Qt and
 
 - https://github.com/zorrokid/emufront
 
+To my surprise the original site for app is still up: http://emufront.garage.maemo.org/
+
 # Some of my old hobby projects outside of this git account
 
 ## Trolly Valley 
