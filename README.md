@@ -7,7 +7,8 @@
 ## film_freak
 
 Mobile app for movie collection management implemented with Flutter and Dart
-- https://github.com/zorrokid/film-freak
+- Prototype: https://github.com/zorrokid/film-freak with SQLite DB
+- WIP: https://github.com/zorrokid/film_freak with Realm to be able to sync data to MongoDB
 
 ## Emufront
 
