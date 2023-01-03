@@ -18,7 +18,7 @@ A video game and computer emulator front end implemented with Qt and C++ origina
 
 To my surprise the original site for app is still up: http://emufront.garage.maemo.org/
 
-# Some of my old hobby projects outside of this git account
+# Some of my old hobby projects outside of this github account
 
 ## Trolly Valley 
 
