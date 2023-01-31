@@ -12,8 +12,8 @@ My interests and goals for near future are (the things that I'm curious about an
 ## film_freak
 
 Mobile app for movie collection management implemented with Flutter and Dart
-- https://github.com/zorrokid/film-freak with SQLite DB
-- Prototyping and testing with Realm / MongoDB sync: https://github.com/zorrokid/film_freak
+- https://github.com/zorrokid/film-freak
+- Related prototype for testing Realm / MongoDB sync: https://github.com/zorrokid/film_freak
 
 ## Mame Software List Runner
 
