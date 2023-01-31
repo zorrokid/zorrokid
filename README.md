@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Flutter / Dart and refreshing my memory and skills with C++ and Qt
 
 My interests and goals for near future are (the things that I'm curious about and want to experiment with when I have time from my current active hobby projects): 
-- WASM in client and server (WASM micro sesrvices) with Rust (or C++ or Go)
+- WASM in client and server (WASM micro services) with Rust (or C++ or Go)
 - Bare metal coding with C / ASM on Raspberry Pi (I have Pi 3)  
 - A small C++ game programming project (propbably with SDL, I'm more into the game engine side of things)
 
