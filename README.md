@@ -4,8 +4,8 @@
 
 My interests and goals for near future are (the things that I'm curious about and want to experiment with when I have time from my current active hobby projects): 
 - WASM in client and server (WASM micro services) with Rust (or C++ or Go)
-- Bare metal coding with C / ASM on Raspberry Pi (I have Pi 3)  
-- A small C++ game programming project (propbably with SDL, I'm more into the game engine side of things)
+- Bare metal coding with C / ASM on Raspberry Pi (I have Pi 3) - I wish to experiment writing a tiny OS, demo or game
+- A small C++ game programming project (probably with SDL2, I'm more into the game engine side of things)
 
 # Some of my hobby projects
 
