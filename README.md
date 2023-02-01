@@ -2,11 +2,6 @@
 - 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
 - 🌱 I’m currently learning Flutter / Dart and refreshing my memory and skills with C++ and Qt
 
-My interests and goals for near future are (the things that I'm curious about and want to experiment with when I have time from my current active hobby projects): 
-- WASM in client and server (WASM micro services) with Rust (or C++ or Go)
-- Bare metal coding with C / ASM on Raspberry Pi (I have Pi 3) - I wish to experiment writing a tiny OS, demo or game
-- A small C++ game programming project (probably with SDL2, I'm more into the game engine side of things)
-
 # Some of my hobby projects
 
 ## film_freak
@@ -47,6 +42,7 @@ Gamebase 64:
 An video game emulator front end and database system implemented with Java:
 - https://sourceforge.net/projects/retromenu/ 
 - https://retromenu.sourceforge.net
+
 
 <!---
 zorrokid/zorrokid is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
