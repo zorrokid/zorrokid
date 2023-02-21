@@ -6,10 +6,17 @@
 
 ## film_freak
 
-Mobile app for movie collection management implemented with Flutter and Dart
+Mobile app for movie collection management implemented with Flutter and Dart: 
 - https://github.com/zorrokid/film-freak
-- Work-In-Process API: https://github.com/zorrokid/film-freak-api
-- Related prototype for testing Realm / MongoDB sync: https://github.com/zorrokid/film_freak
+
+REST API: 
+- https://github.com/zorrokid/film-freak-api
+
+Web UI: 
+- https://github.com/zorrokid/film-freak-web-ui
+
+Prototype for testing Realm / MongoDB sync: 
+. https://github.com/zorrokid/film_freak
 
 ## Mame Software List Runner
 
