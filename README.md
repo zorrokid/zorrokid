@@ -6,7 +6,7 @@
 
 ## nature_photos
 
-Mobile app for managing nature photos implemted with Flutter.
+Mobile app for managing nature photos implemented with Flutter, Firebase and Getx-library.
 - https://github.com/zorrokid/nature-photos
 
 ## film_freak
