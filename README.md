@@ -11,6 +11,10 @@ Mobile app for managing nature photos implemented with Flutter, Firebase and Get
 - Firebase functions: https://github.com/zorrokid/nature-photos-functions
 - Web app: https://github.com/zorrokid/nature-photos-web
 
+## el-man
+
+Fetch electricity prices from Entso-E Transparency platform.
+
 ## film_freak
 
 Mobile app for movie collection management implemented with Flutter and Dart: 
