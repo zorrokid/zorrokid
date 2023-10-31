@@ -13,7 +13,7 @@ Mobile app for managing nature photos implemented with Flutter, Firebase and Get
 
 ## [el-man](https://github.com/zorrokid/el-man)
 
-Automatically manage electricity heating by Day Ahead electricity prices.
+Automatically manage electric heating by hourly electricity prices.
 
 ## film_freak
 
