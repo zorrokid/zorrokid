@@ -8,6 +8,10 @@
 
 Automatically manage electric heating by hourly electricity prices.
 
+## [MyBasicJetpackComposeApp](https://github.com/zorrokid/MyBasicJetpackComposeApp)
+
+Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a collection management app.
+
 ## nature_photos
 
 Mobile app for managing nature photos implemented with Flutter, Firebase and Getx-library.
