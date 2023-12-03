@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @zorrokid aka Mikko Keinänen (https://www.linkedin.com/in/mikkokeinanen)
 - 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
-- 🌱 I’m currently learning Flutter / Dart with Firebase / Google Cloud and Rust
+- 🌱 I’m currently learning Jetpack Compose / Kotlin with Firebase / Google Cloud and Rust
 
 # Some of my hobby projects
 
