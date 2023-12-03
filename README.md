@@ -8,9 +8,9 @@
 
 Automatically manage electric heating by hourly electricity prices.
 
-## [MyBasicJetpackComposeApp](https://github.com/zorrokid/MyBasicJetpackComposeApp)
+## [Media Collector](https://github.com/zorrokid/MediaCollector)
 
-Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a collection management app.
+Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a media collection management app. Media can be DVD's, Blu-rays, VHS-tapes, CD-records, C-cassettes, vinyls, physical games of different formats etc.
 
 ## nature_photos
 
