@@ -5,7 +5,7 @@
 
 # Some of my current hobby projects
 
-## [MAME Software List Runner] (https://github.com/zorrokid/mame-software-lists)
+## [MAME Software List Runner](https://github.com/zorrokid/mame-software-lists)
 
 A front end for running software from MAME Software Lists with MAME and other emulators. This is my first effort with Rust and having a blast with it so far!
 
