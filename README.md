@@ -33,11 +33,6 @@ Web UI:
 Prototype for testing Realm / MongoDB sync: 
 . https://github.com/zorrokid/film_freak
 
-## Mame Software List Runner
-
-Application for running software from MAME Software Lists, implemented in Qt and C++: 
-- https://github.com/zorrokid/mame-software-list-runner
-
 ## Emufront
 
 A video game and computer emulator front end implemented with Qt and C++ originally for mobile Linux (Maemo and Meego) but as a Qt project should be usable on other platforms as well. This was originally hosted in Gitorious (https://gitorious.org/emufront/emufront.git/?p=emufront:emufront.git;a=summary) but decided to upload here for better home since gitorious is not active any more.
