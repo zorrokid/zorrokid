@@ -1,9 +1,13 @@
 - 👋 Hi, I’m @zorrokid aka Mikko Keinänen (https://www.linkedin.com/in/mikkokeinanen)
-- 👀 In addition to coding I’m interested in Linux, movies, retrogaming, photography
 - 💻 I'm currently working as a full stack developer with Scala, TypeScript and React
 - 🌱 I’m currently learning Rust and Jetpack Compose / Kotlin with Firebase / Google Cloud for my hobby projects
+- 👀 In addition to coding I’m interested in Linux, movies, music, retrogaming, photography
 
-# Some of my hobby projects
+# Some of my current hobby projects
+
+## [MAME Software List Runner] (https://github.com/zorrokid/mame-software-lists)
+
+A front end for running software from MAME Software Lists with MAME and other emulators. This is my first effort with Rust and having a blast with it so far!
 
 ## [el-man](https://github.com/zorrokid/el-man)
 
@@ -12,6 +16,8 @@ Automatically manage electric heating by hourly electricity prices.
 ## [Media Collector](https://github.com/zorrokid/MediaCollector)
 
 Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a media collection management app. Media can be DVD's, Blu-rays, VHS-tapes, CD-records, C-cassettes, vinyls, physical games of different formats etc. This will replace film_freak which I was developing earlier using Flutter.
+
+# Some of my frozen hobby projects
 
 ## nature_photos
 
