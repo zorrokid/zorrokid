@@ -4,6 +4,9 @@
 - 👀 In addition to coding I’m interested in Linux, movies, music, retrogaming, photography
 
 # Some of my current hobby projects
+## [Iced Game Collection](https://github.com/zorrokid/iced_game_collection)
+
+My current most active hobby project I'm working on. A retro gaming collection management app and emulator front end for desktop usage. Developed with Rust and Iced.
 
 ## [MAME Software List Runner](https://github.com/zorrokid/mame-software-lists)
 
