@@ -4,9 +4,10 @@
 - 👀 In addition to coding I’m interested in Linux, movies, music, retrogaming, photography
 
 # Some of my current hobby projects
-## [Iced Game Collection](https://github.com/zorrokid/iced_game_collection)
 
-My current most active hobby project I'm working on. A retro gaming collection management app and emulator front end for desktop usage. Developed with Rust and Iced.
+## [Software Collection Manager](https://github.com/zorrokid/software_collection_manager)
+
+This is continuation from my earlier experiments ([1](https://github.com/zorrokid/iced_game_collection), [2](https://github.com/zorrokid/mame-software-lists)) with Rust and Iced.
 
 ## [el-man](https://github.com/zorrokid/el-man)
 
@@ -17,6 +18,9 @@ Automatically manage electric heating by hourly electricity prices. This has bee
 Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a media collection management app. Media can be DVD's, Blu-rays, VHS-tapes, CD-records, C-cassettes, vinyls, physical games of different formats etc. This will replace film_freak which I was developing earlier using Flutter.
 
 # Some of my frozen hobby projects
+## [Iced Game Collection](https://github.com/zorrokid/iced_game_collection)
+
+My current most active hobby project I'm working on. A retro gaming collection management app and emulator front end for desktop usage. Developed with Rust and Iced.
 
 ## [MAME Software List Runner](https://github.com/zorrokid/mame-software-lists)
 
