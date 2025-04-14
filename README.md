@@ -7,7 +7,7 @@
 
 ## [Software Collection Manager](https://github.com/zorrokid/software_collection_manager)
 
-This is continuation from my earlier experiments ([1](https://github.com/zorrokid/iced_game_collection), [2](https://github.com/zorrokid/mame-software-lists)) with Rust and Iced.
+This is continuation from my earlier experiments ([1](https://github.com/zorrokid/iced_game_collection), [2](https://github.com/zorrokid/mame-software-lists)) with Rust and Iced to build a software collection manager and emulator front end suitable for my personal purposes and hopefully also useful for someone else in the future.
 
 ## [el-man](https://github.com/zorrokid/el-man)
 
