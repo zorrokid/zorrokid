@@ -8,15 +8,19 @@
 
 This is continuation from my earlier experiments ([1](https://github.com/zorrokid/iced_game_collection), [2](https://github.com/zorrokid/mame-software-lists)) with Rust and Relm4 to build a emulation file manager and emulator front end suitable for my personal purposes and hopefully also useful for someone else in the future.
 
+## [SDL3 Breakout](https://github.com/zorrokid/sdl3_breakout)
+
+Breakout / Arkanoid clone written in C and SDL3.
+
 ## [el-man](https://github.com/zorrokid/el-man)
 
 Automatically manage electric heating by hourly electricity prices. This has been controlling heating to our holiday home in the countryside for about a year now. Mostly based on cloud functions running in Goole Cloud developed with Python. Has also a simple React UI to manage settings for automation. 
 
+# Some of my frozen hobby projects
 ## [Media Collector](https://github.com/zorrokid/MediaCollector)
 
-Currently learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a media collection management app. Media can be DVD's, Blu-rays, VHS-tapes, CD-records, C-cassettes, vinyls, physical games of different formats etc. This will replace film_freak which I was developing earlier using Flutter.
+For learning about Android app development with Kotlin and Jetpack Compose toolkit and by integrating to Google Firebase services. Implementing a media collection management app. Media can be DVD's, Blu-rays, VHS-tapes, CD-records, C-cassettes, vinyls, physical games of different formats etc. This will replace film_freak which I was developing earlier using Flutter.
 
-# Some of my frozen hobby projects
 ## [Iced Game Collection](https://github.com/zorrokid/iced_game_collection)
 
 My current most active hobby project I'm working on. A retro gaming collection management app and emulator front end for desktop usage. Developed with Rust and Iced.
